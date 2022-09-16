@@ -2,7 +2,7 @@
 
 ### Hello, World!
 
-Com 29 anos de idade e 10 anos sendo dono de uma empresa produtora audiovisual, atuando como diretor e produtor, decidi seguir uma paixão minha! Me tornar desenvolvedor! Desde pequeno, sempre brinquei (sério) com algumas linguagens só fuçando, usando google e lendo documentação delas, e nos anos de produtora criei diversas soluções em software para as produções. A pandemia foi um baque para a produtora mas a oportunidade que eu agarrei no mês que completei 29 anos (2022) para largar tudo e começar uma nova carreira do zero! Claro, já trazendo toda experiência profissional e fluência com tecnologia. <br><br>
+Com 29 anos de idade e depois de 10 anos sendo dono de uma empresa produtora audiovisual, onde atuei como sócio-diretor e produtor, decidi seguir uma paixão minha! Me tornar desenvolvedor! Desde pequeno, sempre brinquei (sério) com algumas linguagens - só fuçando, usando google e lendo documentação delas. E nos anos de produtora criei diversas soluções em software para as produções. A pandemia foi um baque para a produtora mas acabou se tornando também a oportunidade que eu agarrei, exatamente no mês que completei 29 anos (2022), para largar tudo e começar uma nova carreira do zero! Claro, já trazendo toda experiência profissional e fluência com tecnologia. <br><br>
 
 ---
 
@@ -11,8 +11,8 @@ Com 29 anos de idade e 10 anos sendo dono de uma empresa produtora audiovisual, 
 <html>
 <div>
   <a href="https://github.com/ddandev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ddandev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddandev&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ddandev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddandev&layout=compact&langs_count=6&theme=tokyonight"/>
   </a>
 </div>
 <p>Linguagens que estou estudando:</p>
