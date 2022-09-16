@@ -28,11 +28,9 @@ Com 29 anos de idade e depois de 10 anos sendo dono de uma empresa produtora aud
 </html>
 
 ---
-<br>
-
 ## Conheça mais sobre o Dan nas redes sociais!
 
-<br>
+<!-- <br> -->
 
 ### 🤵Redes pessoais
 <a href="https://instagram.com/eldanleite" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?&logo=instagram&logoColor=white" target="_blank"></a>
@@ -41,7 +39,7 @@ Com 29 anos de idade e depois de 10 anos sendo dono de uma empresa produtora aud
 <a href="https://github.com/ddandev" target="_blank"><img src="https://img.shields.io/badge/GitHub--DDanDev-181717?&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://github.com/DDanDev/DDanDev/blob/main/curriculo%20curriculonline%20CV-Danilo.pdf" target="_blank"><img src="https://img.shields.io/badge/Ver Curriculo em .pdf-ef4d48?&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABmJLR0QA/wD/AP+gvaeTAAADGUlEQVRoge2azYtOYRjGf/fE+EhE82JYzmJ8LNQspJgVFlgMWVhMiSykhB0aWdkqRJKFhaWSPwCliZoSzUzGlGKBaRQZYWY0H5fFuSfH8X6/5znzmuaq03nOc9/Pfd3X83HOc97zwhyBFTNKUiDeXmCXmX1OK2BDWoEqxBbgkaSmTNjkCBHTMSBpbZrxi5KGiCmpN3bOpclRkDRETEkrJT338uugIxNSiJdzkvqCiwktxK+TYprT5MtLGipmcDFZCfH6cGKyFOK2nKR+dxlMTUzWQty+OiFmXXDSUDFTFzNbQtyvIjFlbRrNrKhfJaihYwbNbGMh4/8kpGgeC6oNWi2q6ZRyxM/WNj51zAupN8wLqTfMC6k31PQckbQT2AQsAz4Cj83sg9tagXYgBwwDPWY2EGu7HdiRCHnXzIZqyalQoqV2qi/0N0ZdHJK6vG7Cz9OSLsXaXtS/2FZNHpDO1JomGtndQCNwPWE/BDQD/UCXpD0J+0mgxY+X1SaRyhoxsykzewj0AK2Slifsw8BpvzyeaP7JzN768avaHNLeay0CJoGxPLZuYBzYWmnQcvZnqQiRZMABoI1owU8kp7SZTUn6DDS7/wz2S2rx8mUzm6wmhzSENAA/gKXAENGcLwQRvTrEhXTGyleJRrTojjffCKWxRgRcA44BG8xsMK9TNAprgBEzm46ZjgCr/JjVNSIzO1+GXyvRXa0vUf/TzL4WahTv/WKjlOWT/YSfH4QInsUb4l5JHcBh4BVwOwRJSCEz0+AYMALcAc6a2WhAzgKZ1PhzkKQlklakxV0sn6BTy8zGyP9wTB1zZhtfF0IkXUlug0v4J3GjFEFNa6RcSGqQdD9PgnnXSAJPJDWWIshEiHMtkfTMKc+V8D3lfm9VzifuLIU4X5OkN057poDPXkmTkr5J2lxu4EyFOOcGSV8UvVEeTdjaJH13IfsqCZq5EOdtlzTuCR/0uvWS3ntKpyoNmCWeSloc4+5UNCpjkjr05/virWp6Jmvck9QQ47+QsHer1B2qXiHppot4p9B/9QgJSQt9pDbNdi6Z4DcWz4hBa2Ug5gAAAABJRU5ErkJggg==" target="_blank"></a>
 
-<br>
+<!-- <br> -->
 
 ### 📽️Diapason Produções Audiovisuais - 
 ##### A produtora que tive por 10 anos onde trabalhei com áudio e vídeo e fiz o site, domínio, google suite for business (toda a configuração dos domínios, DNS, redirecionamento e hospedagem de email) e soluções em software simples para algumas produções, principalmente para transmissões ao vivo. Nos links abaixo poderá conhecer um pouco do trabalho. A maioria dos conteúdos produzidos, porém, se encontra somente nas redes próprias de cada cliente.
@@ -51,7 +49,7 @@ Com 29 anos de idade e depois de 10 anos sendo dono de uma empresa produtora aud
 <a href="mailto:dan@diapason.com.br" target="_blank"><img src="https://img.shields.io/badge/-E--mail-EA4335?&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://github.com/diapasonproducoes" target="_blank"><img src="https://img.shields.io/badge/GitHub--Site-181717?&logo=github&logoColor=white" target="_blank"></a>
 
-<br>
+<!-- <br> -->
 
 ### 👩‍🚀Outros! (Curiosidades)
 #### 🕹️DDanRockTtv: <span style="font-size: 0.7em;">De vez em quando faço stream de jogos no twitch e recentemente coloquei por um mes alguns trechos no YT também!</span>
