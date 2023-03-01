@@ -2,7 +2,10 @@
 
 ### Hello, World!
 
-Com 29 anos de idade e depois de 10 anos sendo dono de uma empresa produtora audiovisual, onde atuei como sócio-diretor e produtor, decidi seguir uma paixão minha! Me tornar desenvolvedor! Desde pequeno, sempre brinquei (sério) com algumas linguagens - só fuçando, usando google e lendo documentação delas. E nos anos de produtora criei diversas soluções em software para as produções. A pandemia foi um baque para a produtora mas acabou se tornando também a oportunidade que eu agarrei, exatamente no mês que completei 29 anos (2022), para largar tudo e começar uma nova carreira do zero! Claro, já trazendo toda experiência profissional e fluência com tecnologia. <br><br>
+Com 29 anos de idade e depois de 10 anos sendo dono de uma empresa produtora audiovisual, onde atuei como sócio-diretor e produtor, decidi seguir uma paixão minha! Me tornar desenvolvedor! Desde pequeno, sempre brinquei (sério) com algumas linguagens - só fuçando, usando google e lendo documentação delas. E nos anos de produtora criei diversas soluções em software para as produções. A pandemia foi um baque para a produtora mas acabou se tornando também a oportunidade que eu agarrei, exatamente no mês que completei 29 anos (2022), para largar tudo e começar uma nova carreira do zero! Claro, já trazendo toda experiência profissional e fluência com tecnologia. 
+
+Iniciei em 2023 o curso de Tecnologia em Análise e Desenvolvimento de Sistemas no Mackenzie.Faço também em paralelo cursos de desenvolvimento web. Tenho facilidade e aprendo muito rápido! Gosto de desafios, entre em contato comigo!
+<br><br>
 
 ---
 
